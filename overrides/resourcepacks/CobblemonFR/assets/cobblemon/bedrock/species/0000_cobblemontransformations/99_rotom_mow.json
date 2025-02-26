@@ -1,0 +1,1 @@
+{"species":"cobblemon:rotom","order":99,"variations":[{"aspects":["mow"],"poser":"cobblemon:rotommow","model":"cobblemon:rotommow.geo","texture":"cobblemon:textures/pokemon/rotommow/rotommow.png","layers":[]},{"aspects":["shiny","mow"],"poser":"cobblemon:rotommow","model":"cobblemon:rotommow.geo","texture":"cobblemon:textures/pokemon/rotommow/rotommow_shiny.png","layers":[]}]}

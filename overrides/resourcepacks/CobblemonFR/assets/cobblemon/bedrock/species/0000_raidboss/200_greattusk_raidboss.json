@@ -1,0 +1,1 @@
+{"species":"cobblemon:greattusk","order":200,"variations":[{"aspects":["raidboss"],"layers":[{"name":"raidboss","texture":"cobblemon:textures/pokemon/0000_raidboss/raidboss_greattusk.png","emissive":true,"translucent":true}]},{"aspects":["shiny","raidboss"],"texture":"cobblemon:textures/pokemon/greattusk/greattusk_shiny.png"}]}

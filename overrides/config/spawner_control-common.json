@@ -1,0 +1,12 @@
+{
+  "setSpawnLimit": true,
+  "spawnLimit": 15,
+  "dropXp": false,
+  "spawnCount": 4,
+  "spawnRange": 4,
+  "spawnDelay": 20,
+  "minSpawnDelay": 200,
+  "maxSpawnDelay": 800,
+  "playerRange": 16,
+  "maxNearbyEntities": 6
+}

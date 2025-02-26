@@ -1,0 +1,1 @@
+{"species":"cobblemon:enamorus","order":1,"variations":[{"aspects":["therian"],"poser":"cobblemon:substitute","model":"cobblemon:cutout.geo","texture":"cobblemon:textures/pokemon/0_temp/enamorus_therian.png","layers":[]},{"aspects":["shiny","therian"],"layers":[{"name":"shinyoverlay","emissive":true,"texture":"cobblemon:textures/pokemon/shiny.png"}]}]}

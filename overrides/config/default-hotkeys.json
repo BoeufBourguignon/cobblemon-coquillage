@@ -1,0 +1,692 @@
+[
+  {
+    "comment": "evenmoreinstruments.keymaps.instrument_type_modifier",
+    "translation": "Cycle Instrument Sound",
+    "key": "key.keyboard.right.alt"
+  },
+  {
+    "comment": "evenmoreinstruments.keymaps.record",
+    "translation": "Record",
+    "key": "key.keyboard.grave.accent"
+  },
+  {
+    "comment": "genshinstrument.keymaps.transpose_down_modifier",
+    "translation": "Transpose Instrument Down",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "genshinstrument.keymaps.transpose_up_modifier",
+    "translation": "Transpose Instrument Up",
+    "key": "key.keyboard.right.alt"
+  },
+  {
+    "comment": "iris.keybind.reload",
+    "translation": "Recharger les shaders",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "iris.keybind.shaderPackSelection",
+    "translation": "Écran de sélection du pack de shaders",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "iris.keybind.toggleShaders",
+    "translation": "Activation des shaders",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "iris.keybind.wireframe",
+    "translation": "Wireframe (SP only)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.advancements",
+    "translation": "Progrès",
+    "key": "key.keyboard.l"
+  },
+  {
+    "comment": "key.attack",
+    "translation": "Attaquer/détruire",
+    "key": "key.mouse.left"
+  },
+  {
+    "comment": "key.back",
+    "translation": "Reculer",
+    "key": "key.keyboard.s"
+  },
+  {
+    "comment": "key.boosted-brightness.lower",
+    "translation": "Baisser la luminosité",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.boosted-brightness.next",
+    "translation": "Passer à la luminosité suivante",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.boosted-brightness.raise",
+    "translation": "Augmenter la luminosité",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.boosted-brightness.select1",
+    "translation": "Sélectionner la luminosité 1",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.boosted-brightness.select2",
+    "translation": "Sélectionner la luminosité 2",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.boosted-brightness.select3",
+    "translation": "Sélectionner la luminosité 3",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.boosted-brightness.select4",
+    "translation": "Sélectionner la luminosité 4",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.boosted-brightness.select5",
+    "translation": "Sélectionner la luminosité 5",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.carry.desc",
+    "translation": "Saisir",
+    "key": "key.keyboard.left.shift"
+  },
+  {
+    "comment": "key.chat",
+    "translation": "Ouvrir le tchat",
+    "key": "key.keyboard.t"
+  },
+  {
+    "comment": "key.cobblemon.downshiftparty",
+    "translation": "Party Shift Down",
+    "key": "key.keyboard.down"
+  },
+  {
+    "comment": "key.cobblemon.hideparty",
+    "translation": "Hide Party Overlay",
+    "key": "key.keyboard.o"
+  },
+  {
+    "comment": "key.cobblemon.summary",
+    "translation": "Open Summary",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.cobblemon.throwpartypokemon",
+    "translation": "Throw Selected Pokémon",
+    "key": "key.keyboard.x"
+  },
+  {
+    "comment": "key.cobblemon.upshiftparty",
+    "translation": "Party Shift Up",
+    "key": "key.keyboard.up"
+  },
+  {
+    "comment": "key.cobblemonrider.pokemon_dismount",
+    "translation": "key.cobblemonrider.pokemon_dismount",
+    "key": "key.keyboard.v"
+  },
+  {
+    "comment": "key.cobblemonrider.pokemon_mount_entities",
+    "translation": "key.cobblemonrider.pokemon_mount_entities",
+    "key": "key.keyboard.left.alt"
+  },
+  {
+    "comment": "key.cobblenav.decrease_bucket",
+    "translation": "key.cobblenav.decrease_bucket",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.cobblenav.increase_bucket",
+    "translation": "key.cobblenav.increase_bucket",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.cobblenav.open_location",
+    "translation": "Open Location Screen",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.cobblenav.open_pokenav",
+    "translation": "Open Pokenav",
+    "key": "key.keyboard.u"
+  },
+  {
+    "comment": "key.command",
+    "translation": "Entrer une commande",
+    "key": "key.keyboard.slash"
+  },
+  {
+    "comment": "key.craftingtweaks.balance",
+    "translation": "Équilibrer la grille",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.craftingtweaks.clear",
+    "translation": "Vider la grille",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.craftingtweaks.compress_all",
+    "translation": "Compresse tout",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.craftingtweaks.compress_one",
+    "translation": "Compresse l\u0027item",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.craftingtweaks.compress_stack",
+    "translation": "Compresse le stack",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.craftingtweaks.decompress_all",
+    "translation": "Décompresse tout",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.craftingtweaks.decompress_one",
+    "translation": "Décompresse l\u0027item",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.craftingtweaks.decompress_stack",
+    "translation": "Décompress le stack",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.craftingtweaks.force_clear",
+    "translation": "Force le vide de la grille",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.craftingtweaks.refill_last_stack",
+    "translation": "Craft récent (Stack)",
+    "key": "key.keyboard.tab"
+  },
+  {
+    "comment": "key.craftingtweaks.rotate",
+    "translation": "Tourner la grille",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.craftingtweaks.rotate_counter_clockwise",
+    "translation": "Tourner la grille (Inverse)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.craftingtweaks.spread",
+    "translation": "Disperser sur la grille",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.craftingtweaks.transfer_stack",
+    "translation": "Transfer to Crafting Grid",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.crawl",
+    "translation": "Crawl",
+    "key": "key.keyboard.k"
+  },
+  {
+    "comment": "key.disable_voice_chat",
+    "translation": "Désactiver le chat vocal",
+    "key": "key.keyboard.h"
+  },
+  {
+    "comment": "key.drop",
+    "translation": "Jeter l\u0027objet sélectionné",
+    "key": "key.keyboard.q"
+  },
+  {
+    "comment": "key.fabricskyboxes.toggle",
+    "translation": "Toggle FabricSkyBoxes",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.fabricskyboxes.toggle.debug_hud",
+    "translation": "Toggle Debug Hud",
+    "key": "key.keyboard.f12"
+  },
+  {
+    "comment": "key.forward",
+    "translation": "Avancer",
+    "key": "key.keyboard.w"
+  },
+  {
+    "comment": "key.ftbchunks.add_waypoint",
+    "translation": "Quick Add Waypoint",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbchunks.claim_manager",
+    "translation": "Open Claim Manager",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbchunks.map",
+    "translation": "Open Map",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbchunks.minimap.zoomIn",
+    "translation": "Zoom In Minimap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbchunks.minimap.zoomOut",
+    "translation": "Zoom Out Minimap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbchunks.toggle_minimap",
+    "translation": "Toggle Minimap",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbchunks.waypoint_manager",
+    "translation": "Waypoint Manager",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbteams.open_gui",
+    "translation": "Ouvrir l\u0027interface des équipe",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.ftbultimine",
+    "translation": "FTB Ultimine",
+    "key": "key.keyboard.grave.accent"
+  },
+  {
+    "comment": "key.fullscreen",
+    "translation": "Basculer en mode plein écran",
+    "key": "key.keyboard.f11"
+  },
+  {
+    "comment": "key.hide_icons",
+    "translation": "Masquer les icônes du chat vocal",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.hotbar.1",
+    "translation": "Case 1 de la barre d\u0027action",
+    "key": "key.keyboard.1"
+  },
+  {
+    "comment": "key.hotbar.2",
+    "translation": "Case 2 de la barre d\u0027action",
+    "key": "key.keyboard.2"
+  },
+  {
+    "comment": "key.hotbar.3",
+    "translation": "Case 3 de la barre d\u0027action",
+    "key": "key.keyboard.3"
+  },
+  {
+    "comment": "key.hotbar.4",
+    "translation": "Case 4 de la barre d\u0027action",
+    "key": "key.keyboard.4"
+  },
+  {
+    "comment": "key.hotbar.5",
+    "translation": "Case 5 de la barre d\u0027action",
+    "key": "key.keyboard.5"
+  },
+  {
+    "comment": "key.hotbar.6",
+    "translation": "Case 6 de la barre d\u0027action",
+    "key": "key.keyboard.6"
+  },
+  {
+    "comment": "key.hotbar.7",
+    "translation": "Case 7 de la barre d\u0027action",
+    "key": "key.keyboard.7"
+  },
+  {
+    "comment": "key.hotbar.8",
+    "translation": "Case 8 de la barre d\u0027action",
+    "key": "key.keyboard.8"
+  },
+  {
+    "comment": "key.hotbar.9",
+    "translation": "Case 9 de la barre d\u0027action",
+    "key": "key.keyboard.9"
+  },
+  {
+    "comment": "key.inventory",
+    "translation": "Ouvrir/fermer l\u0027inventaire",
+    "key": "key.keyboard.e"
+  },
+  {
+    "comment": "key.journeymap.create_waypoint",
+    "translation": "Ajouter une balise",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.journeymap.fullscreen.disable_buttons",
+    "translation": "Désactiver les boutons plein écran",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.journeymap.fullscreen.east",
+    "translation": "Déplacer vers l\u0027est (16 blocs)",
+    "key": "key.keyboard.right"
+  },
+  {
+    "comment": "key.journeymap.fullscreen.north",
+    "translation": "Déplacer vers le nord (16 blocs)",
+    "key": "key.keyboard.up"
+  },
+  {
+    "comment": "key.journeymap.fullscreen.south",
+    "translation": "Déplacer vers le sud (16 blocs)",
+    "key": "key.keyboard.down"
+  },
+  {
+    "comment": "key.journeymap.fullscreen.west",
+    "translation": "Déplacer vers l\u0027ouest (16 blocs)",
+    "key": "key.keyboard.left"
+  },
+  {
+    "comment": "key.journeymap.fullscreen_chat_position",
+    "translation": "Position de la discussion (sur le curseur)",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "key.journeymap.fullscreen_create_waypoint",
+    "translation": "Ajouter une balise (sur le curseur)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.journeymap.fullscreen_options",
+    "translation": "Gestion des options",
+    "key": "key.keyboard.o"
+  },
+  {
+    "comment": "key.journeymap.fullscreen_waypoints",
+    "translation": "Gestion des balises",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.journeymap.map_toggle_alt",
+    "translation": "Afficher/cacher la carte plein écran",
+    "key": "key.keyboard.m"
+  },
+  {
+    "comment": "key.journeymap.minimap_preset",
+    "translation": "Passer à la mini-carte suivante",
+    "key": "key.keyboard.comma"
+  },
+  {
+    "comment": "key.journeymap.minimap_toggle_alt",
+    "translation": "Afficher/cacher la mini-carte",
+    "key": "key.keyboard.period"
+  },
+  {
+    "comment": "key.journeymap.minimap_type",
+    "translation": "Changer le type de carte",
+    "key": "key.keyboard.left.end"
+  },
+  {
+    "comment": "key.journeymap.toggle_waypoints",
+    "translation": "Basculer toutes les balises",
+    "key": "key.keyboard.semicolon"
+  },
+  {
+    "comment": "key.journeymap.zoom_in",
+    "translation": "Zoomer",
+    "key": "key.keyboard.equal"
+  },
+  {
+    "comment": "key.journeymap.zoom_out",
+    "translation": "Dézoomer",
+    "key": "key.keyboard.minus"
+  },
+  {
+    "comment": "key.jump",
+    "translation": "Sauter",
+    "key": "key.keyboard.space"
+  },
+  {
+    "comment": "key.left",
+    "translation": "Aller à gauche",
+    "key": "key.keyboard.a"
+  },
+  {
+    "comment": "key.loadToolbarActivator",
+    "translation": "Charger une barre d\u0027action",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.modmenu.open_menu",
+    "translation": "Open Mod Menu",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.mute_microphone",
+    "translation": "Couper le microphone",
+    "key": "key.keyboard.j"
+  },
+  {
+    "comment": "key.pickItem",
+    "translation": "Choisir le bloc",
+    "key": "key.mouse.middle"
+  },
+  {
+    "comment": "key.playerlist",
+    "translation": "Afficher la liste des joueurs",
+    "key": "key.keyboard.tab"
+  },
+  {
+    "comment": "key.push_to_talk",
+    "translation": "Appuyer pour parler",
+    "key": "key.keyboard.g"
+  },
+  {
+    "comment": "key.right",
+    "translation": "Aller à droite",
+    "key": "key.keyboard.d"
+  },
+  {
+    "comment": "key.saveToolbarActivator",
+    "translation": "Sauvegarder la barre d\u0027action",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.screenshot",
+    "translation": "Prendre une capture d\u0027écran",
+    "key": "key.keyboard.f2"
+  },
+  {
+    "comment": "key.smoothCamera",
+    "translation": "Basculer en mode cinématique",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.sneak",
+    "translation": "S\u0027accroupir",
+    "key": "key.keyboard.left.shift"
+  },
+  {
+    "comment": "key.socialInteractions",
+    "translation": "Interactions sociales",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.spectatorOutlines",
+    "translation": "Repérer les joueurs (spectateurs)",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.sprint",
+    "translation": "Courir",
+    "key": "key.keyboard.left.control"
+  },
+  {
+    "comment": "key.swapOffhand",
+    "translation": "Échanger avec la main secondaire",
+    "key": "key.keyboard.f"
+  },
+  {
+    "comment": "key.togglePerspective",
+    "translation": "Changer de point de vue",
+    "key": "key.keyboard.f5"
+  },
+  {
+    "comment": "key.toms_storage.open_terminal",
+    "translation": "[Tom\u0027s Simple Storage] Open Terminal",
+    "key": "key.keyboard.i"
+  },
+  {
+    "comment": "key.use",
+    "translation": "Utiliser un objet/placer un bloc",
+    "key": "key.mouse.right"
+  },
+  {
+    "comment": "key.voice_chat",
+    "translation": "Interface utilisateur du chat vocal",
+    "key": "key.keyboard.backslash"
+  },
+  {
+    "comment": "key.voice_chat_adjust_volumes",
+    "translation": "Ajuster les volumes",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.voice_chat_group",
+    "translation": "Groupe de chat vocal",
+    "key": "key.keyboard.p"
+  },
+  {
+    "comment": "key.voice_chat_settings",
+    "translation": "Paramètres du chat vocal",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.voice_chat_toggle_recording",
+    "translation": "Basculer l\u0027enregistrement",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.waila.config",
+    "translation": "Open Config",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.waila.show_overlay",
+    "translation": "Show Overlay",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.waila.show_recipe_input",
+    "translation": "Show Recipe Usage",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.waila.show_recipe_output",
+    "translation": "Show Recipe",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.waila.toggle_liquid",
+    "translation": "Toggle Liquid",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "key.whisper",
+    "translation": "Chuchoter",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybind.sophisticatedbackpacks.inventory_interaction",
+    "translation": "Exécute les modules d\u0027intéraction (restock/dépose)",
+    "key": "key.keyboard.c"
+  },
+  {
+    "comment": "keybind.sophisticatedbackpacks.open_backpack",
+    "translation": "Ouvrir le sac à dos",
+    "key": "key.keyboard.b"
+  },
+  {
+    "comment": "keybind.sophisticatedbackpacks.sort",
+    "translation": "Trier le sac à dos",
+    "key": "key.mouse.middle"
+  },
+  {
+    "comment": "keybind.sophisticatedbackpacks.toggle_upgrade_1",
+    "translation": "Change l\u0027état du module du premier emplacement",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybind.sophisticatedbackpacks.toggle_upgrade_2",
+    "translation": "Change l\u0027état du module du second emplacement",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybind.sophisticatedbackpacks.toggle_upgrade_3",
+    "translation": "Change l\u0027état du module du troisième emplacement",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybind.sophisticatedbackpacks.toggle_upgrade_4",
+    "translation": "Change l\u0027état du module du quatrième emplacement",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybind.sophisticatedbackpacks.toggle_upgrade_5",
+    "translation": "Change l\u0027état du module du cinquième emplacement",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybind.sophisticatedbackpacks.tool_swap",
+    "translation": "Echange l\u0027outil en fonction du bloc/entité visé",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "keybind.sophisticatedstorage.sort",
+    "translation": "Sort Storage",
+    "key": "key.mouse.middle"
+  },
+  {
+    "comment": "lootbeams.keybindings.savePreset",
+    "translation": "Save preset",
+    "key": "key.keyboard.keypad.5"
+  },
+  {
+    "comment": "seamless_loading_screen.keybind.config",
+    "translation": "seamless_loading_screen.keybind.config",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "zoomify.key.zoom",
+    "translation": "Zoom",
+    "key": "key.keyboard.z"
+  },
+  {
+    "comment": "zoomify.key.zoom.in",
+    "translation": "Scroll Zoom In",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "zoomify.key.zoom.out",
+    "translation": "Scroll Zoom Out",
+    "key": "key.keyboard.unknown"
+  },
+  {
+    "comment": "zoomify.key.zoom.secondary",
+    "translation": "Zoom secondaire",
+    "key": "key.keyboard.f6"
+  }
+]

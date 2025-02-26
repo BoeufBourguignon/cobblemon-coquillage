@@ -1,0 +1,20 @@
+{
+  "spawnProtectionDistance": 100.0,
+  "distanceToLevel": {
+    "0.0": {
+      "type": "uniform",
+      "min": 0,
+      "max": 2
+    },
+    "100.0": {
+      "type": "uniform",
+      "min": 0,
+      "max": 4
+    },
+    "250.0": {
+      "type": "uniform",
+      "min": 0,
+      "max": 6
+    }
+  }
+}

@@ -1,0 +1,1 @@
+{"portraitScale":2,"cry":"bedrock(sceptile_mega, cry)","portraitTranslation":[-0.5,1.5,0],"profileScale":0.55,"profileTranslation":[0.05,0.95,0],"poses":{"standing":{"poseName":"standing","transformTicks":10,"poseTypes":["STAND","NONE","PORTRAIT","PROFILE","WALK","FLY","HOVER","SWIM","FLOAT"],"animations":["bedrock(sceptile_mega, ground_idle)"]}}}

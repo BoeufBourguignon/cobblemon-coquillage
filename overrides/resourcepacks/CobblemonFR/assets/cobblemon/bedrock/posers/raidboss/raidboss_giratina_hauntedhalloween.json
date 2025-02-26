@@ -1,0 +1,1 @@
+{"portraitScale":2.0,"portraitTranslation":[-0.2,0.9,0],"profileScale":0.8,"profileTranslation":[-0.1,0.6,0],"animations":{"cry":"q.bedrock_stateful('giratina_origin', 'cry')"},"poses":{"battle-standing":{"poseTypes":["STAND","NONE","PORTRAIT","PROFILE","WALK","FLY","HOVER","SWIM","FLOAT"],"animations":["q.bedrock('giratina_origin', 'air_idle')"]}}}

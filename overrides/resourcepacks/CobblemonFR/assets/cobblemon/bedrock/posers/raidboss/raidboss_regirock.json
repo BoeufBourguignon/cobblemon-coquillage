@@ -1,0 +1,1 @@
+{"portraitScale":0.5,"portraitTranslation":[0,1.2,0],"profileScale":0.4,"profileTranslation":[0,1,0],"faint":"bedrock(regirock, faint)","poses":{"standing":{"poseName":"standing","transformTicks":10,"poseTypes":["STAND","NONE","PORTRAIT","PROFILE","WALK","FLY","HOVER","SWIM","FLOAT"],"animations":["bedrock(regirock, ground_idle)"]}}}

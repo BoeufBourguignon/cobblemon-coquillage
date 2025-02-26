@@ -1,0 +1,20 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "file/Boenk's_Cobblemon_Item_Description_V1.5.0.zip",
+    "file/Theone's Items Pack v0.8.zip",
+    "file/Cobblemon Interface v1.1.1.zip",
+    "file/Journeymap-Cobblemon3.01_1.20.1_MythicalNetwork.zip",
+    "file/Maxis.zip",
+    "file/EmbellishedStone-1.20.1-1.0.0.zip",
+    "file/SmoothFont_1.20.zip",
+    "file/bopack",
+    "file/CobblemonFR",
+    "file/CobbleCafe",
+    "file/Missing Legends V1.2[No Genesect or Regi Resize]",
+    "file/AlphabetSoup-v2.2.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  }
+}

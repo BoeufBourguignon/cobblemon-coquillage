@@ -1,0 +1,1 @@
+{"portraitScale":1.8,"portraitTranslation":[-0.72,2.95,0],"profileScale":0.53,"profileTranslation":[0.09,1.3,0],"animations":{},"poses":{"standing":{"poseTypes":["STAND","WALK","HOVER","FLY","NONE","PORTRAIT","PROFILE"],"isBattle":false,"animations":["q.look('head')","q.bedrock('noivern', 'air_idle')"],"quirks":["q.bedrock_quirk('noivern', 'blink')"]}}}

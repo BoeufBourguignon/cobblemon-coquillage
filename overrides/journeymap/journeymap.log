@@ -1,0 +1,63 @@
+[19:23:18] [Render thread/INFO] [JMLogger] JourneyMap log initialized.
+[19:23:18] [Render thread/INFO] [JourneymapClient] initialize ENTER
+[19:23:18] [Render thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.9-SNAPSHOT
+[19:23:18] [Render thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[19:23:18] [Render thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapIntegration
+[19:23:19] [Render thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[19:23:19] [Render thread/INFO] [?] Version: JourneyMap 1.20.1-5.10.3, built with fabric 0.92.2+1.20.1
+fabric: 0.15.11
+Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=fr_fr, locale=fr_fr
+Features: 
+	RadarPlayers : singleplayer = true , multiplayer = true
+	RadarAnimals : singleplayer = true , multiplayer = true
+	RadarMobs : singleplayer = true , multiplayer = true
+	RadarVillagers : singleplayer = true , multiplayer = true
+	MapTopo : singleplayer = true , multiplayer = true
+	MapSurface : singleplayer = true , multiplayer = true
+	MapCaves : singleplayer = true , multiplayer = true
+	MapBiome : singleplayer = true , multiplayer = true
+MiniMapProperties{state=Valid, file=journeymap.minimap.config, configVersion=5.10.3, zoomLevel=2, compassFontScale=2.0, terrainAlpha=100, showEntityNames=false, positionX=0.86640626, positionY=0.037962962, effectVertical=false, showPlayerHeading=false, sizePercent=23, playerDisplayScale=1.75, showDayNight=true, showPets=false, preferredMapType=day, showCompass=true, mobDisplay=jm.common.entity_display.icons, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_square, showSelf=true, selfDisplayScale=1.5, showGrid=false, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=-138, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.0, effectTranslateY=3, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_custom, fontScale=3.0, showPlayers=true, waypointIconScale=2.0, frameAlpha=80, effectReversed=false, backgroundAlpha=0.0, enabled=true, showVillagers=false, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=false, waypointLabelScale=1.5, showReticle=false, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xz, playerDisplay=jm.common.entity_display.icons, mobDisplayScale=1.5, showCaves=true, showMobHeading=false, locationFormatVerbose=false, info1Label=jm.theme.labelsource.blank}
+MiniMapProperties{state=Valid, file=journeymap.minimap2.config, configVersion=5.10.3, zoomLevel=2, compassFontScale=1.0, terrainAlpha=100, showEntityNames=false, positionX=0.74635416, positionY=0.033796296, effectVertical=false, showPlayerHeading=false, sizePercent=25, playerDisplayScale=1.75, showDayNight=true, showPets=false, preferredMapType=night, showCompass=true, mobDisplay=jm.common.entity_display.icons, systemTimeRealFormat=HH:mm:ss, shape=jm.minimap.shape_rectangle, showSelf=true, selfDisplayScale=1.5, showGrid=false, reticleOrientation=jm.minimap.orientation.compass, gameTimeRealFormat=HH:mm:ss, effectTranslateX=-168, showWaypoints=true, minimapKeyMovementSpeed=0.001, showAnimals=true, infoSlotAlpha=0.0, effectTranslateY=4, showWaypointLabels=true, moveEffectIcons=true, position=jm.minimap.position_custom, fontScale=3.0, showPlayers=true, waypointIconScale=2.0, frameAlpha=80, effectReversed=false, backgroundAlpha=0.0, enabled=true, showVillagers=false, info2Label=jm.theme.labelsource.gametime, info3Label=jm.theme.labelsource.location, showMobs=false, waypointLabelScale=1.5, showReticle=false, orientation=jm.minimap.orientation.north, info4Label=jm.theme.labelsource.biome, locationFormat=xz, playerDisplay=jm.common.entity_display.icons, mobDisplayScale=1.5, showCaves=true, showMobHeading=false, locationFormatVerbose=false, info1Label=jm.theme.labelsource.blank}
+FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.10.3, zoomLevel=3, showPlayers=true, waypointIconScale=2.0, showEntityNames=false, showPlayerHeading=false, showVillagers=false, showPlayerLoc=true, showKeys=false, playerDisplayScale=2.0, showMobs=false, showPets=false, waypointLabelScale=1.5, preferredMapType=day, mobDisplay=jm.common.entity_display.icons, showSelf=true, locationFormat=xz, playerDisplay=jm.common.entity_display.icons, mobDisplayScale=2.0, selfDisplayScale=1.5, showGrid=false, showMouseLoc=true, showWaypoints=true, showCaves=true, showAnimals=true, showMobHeading=false, showWaypointLabels=true, locationFormatVerbose=false, fontScale=2.5}
+WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.10.3, autoRemoveDeathpointDistance=16, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, fullscreenDoubleClickToCreate=true, managerDimensionFocus=false, minDistance=4, boldLabel=false, textureSmall=true, showDeathpointlabel=true, beaconEnabled=true, createDeathpoints=true, showName=true, disableStrikeThrough=false, maxDistance=0, autoHideLabel=true, autoRemoveTempWaypoints=2, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, shaderBeacon=false, timeFormat=HH:mm:ss, showDeviationLabel=false, showDistance=true, showRotatingBeam=true, fontScale=2.0, showTexture=true, managerEnabled=true}
+WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.10.3, port=8080, enabled=false}
+CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.10.3, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, dataCachingEnabled=true, optionsManagerViewed=5.10.3, announceMod=false, colorPassive=#bbbbbb, mapBlendWater=false, renderDistanceSurfaceMax=0, seedId=true, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=jm.minimap.shape_circle, mapBiome=true, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=false, mapBlendFoliage=true, hideSpectators=false, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, mapWaterBiomeColors=false, maxAnimalsData=128, mapTransparency=true, caveBlackAsClear=false, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=0, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=5.10.3, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=Purist, mapCaveLighting=true, renderDelay=2, glErrorChecking=false, autoMapPoll=2000}
+[19:23:19] [Render thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 1 avg 973,08ms
+[19:23:19] [Render thread/INFO] [VersionCheck] Update check disabled in properties file.
+[19:23:19] [Render thread/INFO] [JourneymapClient] postInitialize EXIT, elapsed count 1 avg 5,66ms
+[19:23:50] [Render thread/INFO] [ColorManager] Updated color palette for 4079 blockstates in 499ms: F:\Jeux\Minecraft Curse\Instances\Cobblemon Coquillage\journeymap\colorpalette.json
+[19:23:50] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 199ms
+[19:23:51] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 54ms
+[19:23:51] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 51ms
+[19:23:51] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 48ms
+[19:23:51] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 46ms
+[19:23:51] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 46ms
+[19:23:51] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 47ms
+[19:23:51] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 47ms
+[19:23:51] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 49ms
+[19:23:51] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 56ms
+[19:23:51] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 48ms
+[19:23:51] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 44ms
+[19:23:51] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 143ms
+[19:23:51] [Render thread/INFO] [ColorManager] Loaded color palette for 4079 blockstates in 41ms
+[19:24:53] [Render thread/WARN] [JMLogger] Can't get entityTexture for naturalist:textures/entity_icon/snake/coral_snake.png
+[19:24:53] [Render thread/WARN] [JMLogger] Can't get entityTexture for naturalist:textures/entity_icon/butterfly/blue_morpho.png
+[19:24:53] [Render thread/WARN] [JMLogger] Can't get entityTexture for cobblemon:textures/entity_icon/nymble/nymble.png
+[19:24:53] [Render thread/WARN] [JMLogger] Can't get entityTexture for cobblemon:textures/entity_icon/tauros/tauros_aqua.png
+[19:24:54] [Render thread/INFO] [WaypointStore] Loaded 0 waypoints from F:\Jeux\Minecraft Curse\Instances\Cobblemon Coquillage\journeymap\data\sp\New World\waypoints
+[19:24:54] [Render thread/INFO] [JourneymapClient] Mapping started in F:\Jeux\Minecraft Curse\Instances\Cobblemon Coquillage\journeymap\data\sp\New World\overworld. Memory: 4880MB total, 2076MB free 
+[19:24:57] [Render thread/WARN] [JMLogger] Can't get entityTexture for naturalist:textures/entity_icon/butterfly/cabbage_white.png
+[19:25:25] [Render thread/WARN] [JMLogger] rctmod:textures/trainers/single/lass_miriam_0078.png doesn't have /entity/ in path, so can't look for /entity_icon/
+[19:26:12] [Render thread/WARN] [JMLogger] rctmod:textures/trainers/single/trainer_brendan_002c.png doesn't have /entity/ in path, so can't look for /entity_icon/
+[19:26:25] [Render thread/WARN] [JMLogger] Can't get entityTexture for naturalist:textures/entity_icon/firefly/firefly.png
+[19:26:28] [Render thread/WARN] [JMLogger] Can't get entityTexture for cobblemon:textures/entity_icon/capsakid/capsakid.png
+[19:26:57] [Render thread/WARN] [JMLogger] rctmod:textures/trainers/single/bug_catcher_01ed.png doesn't have /entity/ in path, so can't look for /entity_icon/
+[19:27:06] [Render thread/WARN] [JMLogger] rctmod:textures/trainers/single/rival_terry_0146.png doesn't have /entity/ in path, so can't look for /entity_icon/
+[19:29:45] [Render thread/WARN] [JMLogger] rctmod:textures/trainers/single/camper_liam_008e.png doesn't have /entity/ in path, so can't look for /entity_icon/
+[19:33:36] [Render thread/WARN] [JMLogger] Can't get entityTexture for cobblemon:textures/entity_icon/purrloin/purrloin.png
+[19:34:02] [Render thread/WARN] [JMLogger] rctmod:textures/trainers/single/player_leaf_0203.png doesn't have /entity/ in path, so can't look for /entity_icon/
+[19:34:18] [Render thread/WARN] [JMLogger] rctmod:textures/trainers/single/friendly_maniac_0006.png doesn't have /entity/ in path, so can't look for /entity_icon/
+[19:34:24] [Render thread/WARN] [JMLogger] Can't get entityTexture for naturalist:textures/entity_icon/butterfly/clouded_yellow.png
+[19:34:31] [Render thread/WARN] [JMLogger] Can't get entityTexture for cobblemon:textures/entity_icon/drilbur/drilbur.png
+[19:34:34] [Render thread/WARN] [JMLogger] rctmod:textures/trainers/single/bug_catcher_doug_0067.png doesn't have /entity/ in path, so can't look for /entity_icon/
+[19:34:54] [Render thread/INFO] [JourneymapClient] Mapping halted in F:\Jeux\Minecraft Curse\Instances\Cobblemon Coquillage\journeymap\data\mp\offline\minecraft:overworld
